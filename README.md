@@ -61,7 +61,7 @@ Note: OpenCV's pre-trained models for face detectors, images of dogs and humans,
 The summary of the accuracy value used as an evaluation metric for the project for various architectures is given below:
 
 |Architecture|Trainable Parameters|Train Accuracy|Valid Accuracy|Test Accuracy|
-|--|--|--|--|
+|--|--|--|--|--|
 |Custom| 24,831,909 |97.6%| 5.03% | 4.19%|
 |VGG16| 68,229 |63.58%| 49.7% | 49.76%|
 |VGG19| 68,229|61.74% | 48.14%|50.0%
