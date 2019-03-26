@@ -1,6 +1,6 @@
 # Dog Breed Classifier 
 
-## Blog Post Link: https://medium.com/@chalam.pusuluri/whats-the-breed-of-your-dog-d35f867e514b?source=friends_link&sk=5356056a3c2b4d88ad5dacee9324a990
+**Blog Post Link:** https://medium.com/@chalam.pusuluri/whats-the-breed-of-your-dog-d35f867e514b?source=friends_link&sk=5356056a3c2b4d88ad5dacee9324a990
 
 ## Motivation
 
