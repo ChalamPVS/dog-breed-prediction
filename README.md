@@ -26,6 +26,7 @@ The instructions to download the images are provided below.
 - Scikit-learn
 - Pillow
 - Tensorflow
+- Skimage
 - IPython Kernel
 
 Note: Most of the requirements can be downloaded from [Anaconda](https://www.anaconda.com/download/#macos)
